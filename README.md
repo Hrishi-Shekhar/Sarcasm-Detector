@@ -1,10 +1,10 @@
-# 🤖 Sarcasm Detection using NLP & Machine Learning
+# Sarcasm Detection using NLP & Machine Learning
 
 A machine learning project to detect sarcasm in text using Natural Language Processing (NLP) techniques and various classification algorithms like KNN and SVM.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Sarcasm is subtle and often difficult to detect, even for humans. This project builds a supervised machine learning model that classifies text as sarcastic or not by applying NLP preprocessing and training on labeled datasets.
 
@@ -19,7 +19,7 @@ Sarcasm is subtle and often difficult to detect, even for humans. This project b
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 - K-Nearest Neighbors (KNN)  
 - Support Vector Machine (SVM)  
@@ -29,7 +29,7 @@ Sarcasm is subtle and often difficult to detect, even for humans. This project b
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Text preprocessing (tokenization, stop-word removal, lowercasing)
 - Feature extraction using TF-IDF Vectorizer
